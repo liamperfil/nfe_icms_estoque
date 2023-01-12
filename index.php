@@ -1,6 +1,5 @@
 <?php
 if ( isset($_POST['submit']) && !empty($_POST['chavexml']) ) {
-    include_once('conn.php');
     include_once('config.php');
 }
 ?>
